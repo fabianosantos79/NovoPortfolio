@@ -9,10 +9,10 @@ Landing Page onde está meu portfólio, foi criada com HTML, CSS e Javascript, u
 
 ## 🎯 Layout
 
-Fiz o layout baseado nessa imagem que retirei do Pinterest
+Fiz o layout baseado nesse projeto
 
 ![App Referencia](https://raw.githubusercontent.com/fabianosantos79/NovoPortfolio/main/assets/personal_page.png)
-<br/>
+<br/><br/>
 
 ## 🛠 Funcionalidades
 
@@ -27,7 +27,7 @@ Fiz o layout baseado nessa imagem que retirei do Pinterest
 Logo que criei para a página com as palavras iniciais do meu nome
   
 ![Logo](https://raw.githubusercontent.com/fabianosantos79/NovoPortfolio/main/assets/logo_fs.png)
-
+<br/>
 
 ## 🚀 Instalação
 
