@@ -11,7 +11,7 @@ Landing Page onde está meu portfólio, foi criada com HTML, CSS e Javascript, u
 
 Fiz o layout baseado nessa imagem que retirei do Pinterest
 
-![App Referencia](https://raw.githubusercontent.com/fabianosantos79/clone-netflix/master/public/referencia.png)
+![App Referencia](https://raw.githubusercontent.com/fabianosantos79/NovoPortfolio/main/assets/personal_page.png)
 <br/>
 
 ## 🛠 Funcionalidades
@@ -20,8 +20,13 @@ Fiz o layout baseado nessa imagem que retirei do Pinterest
 - Exibição de projetos
 - Modo Dark Mode
 - Layout Responsivo
+<br/>
 
+## 🎨 Logo
+
+Logo que criei para a página com as palavras iniciais do meu nome
   
+![Logo](https://raw.githubusercontent.com/fabianosantos79/NovoPortfolio/main/assets/logo_fs.png)
 
 
 ## 🚀 Instalação
