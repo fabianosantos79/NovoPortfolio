@@ -32,7 +32,7 @@ Logo que criei para a página com as palavras iniciais do meu nome
 
 Abaixo a demonstração da aplicação online no Github Pages
 
-![App Screenshot](https://raw.githubusercontent.com/fabianosantos79/projeto-app-tempo/main/public/NovoPortfolio.gif)
+![App Screenshot](https://raw.githubusercontent.com/fabianosantos79/NovoPortfolio/public/NovoPortfolio.gif)
 <br/><br/>
 
 ## 🚀 Instalação
