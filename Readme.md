@@ -28,6 +28,13 @@ Logo que criei para a página com as palavras iniciais do meu nome
 ![Logo](https://raw.githubusercontent.com/fabianosantos79/NovoPortfolio/main/assets/logo_fs.png)
 <br/><br/>
 
+## 🌐 Demonstração
+
+Abaixo a demonstração da aplicação online no Github Pages
+
+![App Screenshot](https://raw.githubusercontent.com/fabianosantos79/projeto-app-tempo/main/public/NovoPortfolio.gif)
+<br/><br/>
+
 ## 🚀 Instalação
 
 Faça download da pasta com os arquivos
